@@ -1,0 +1,31 @@
+Sunpower X:
+This solar panel model is designed for residential use, with a power output of 350 watts and an efficiency of 22%. It features a sleek, low-profile design and is made with high-quality monocrystalline silicon cells. The Sunpower X is known for its durability and long-lasting performance, with a 25-year warranty.
+
+Sunpower Y:
+The Sunpower Y is a more powerful model, with a power output of 400 watts and an efficiency of 23%. It is suitable for larger homes or those with higher energy demands. This model features advanced tracking technology, which allows it to follow the sun's movement and maximize energy production throughout the day.
+
+Sunpower Double-X:
+The Sunpower Double-X is the most advanced model in the lineup, with a power output of 450 watts and an efficiency of 24%. It is designed for homeowners who want to maximize their solar energy production. This model features a unique dual-axis tracking system, which allows it to follow the sun's movement both horizontally and vertically, further increasing energy output.
+
+Installation Instructions:
+
+Sunpower X:
+1. Assess the installation site and ensure it meets local building and electrical codes.
+2. Mount the solar panel frame securely to the roof or ground, ensuring proper orientation and tilt angle.
+3. Connect the solar panel to the inverter, following the manufacturer's instructions.
+4. Install the necessary electrical components, such as the circuit breaker and wiring, in compliance with local regulations.
+5. Connect the system to the home's electrical grid and complete the necessary paperwork for grid interconnection.
+
+Sunpower Y:
+1. Evaluate the installation site and ensure it is suitable for the tracking system.
+2. Assemble the tracking mechanism and mount the solar panel frame securely.
+3. Connect the solar panel to the inverter and the tracking system, following the manufacturer's instructions.
+4. Install the electrical components, including the circuit breaker and wiring, in compliance with local regulations.
+5. Connect the system to the home's electrical grid and complete the necessary paperwork for grid interconnection.
+
+Sunpower Double-X:
+1. Carefully assess the installation site and ensure it can accommodate the dual-axis tracking system.
+2. Assemble the dual-axis tracking mechanism and mount the solar panel frame securely.
+3. Connect the solar panel to the inverter and the tracking system, following the manufacturer's instructions.
+4. Install the electrical components, including the circuit breaker and wiring, in compliance with local regulations.
+5. Connect the system to the home's electrical grid and complete the necessary paperwork for grid interconnection.
