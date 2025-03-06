@@ -60,7 +60,7 @@ ensuring seamless interactions. The architecture looks as following:
 ## Getting Started
 1. Clone this repository
 ```bash
-git clone https://github.com/aws-samples/bedrock-multi-agents-collaboration-workshop.git
+git clone https://github.com/dmichellee/fireup-bedrock-multi-agents-collaboration-workshop.git
 ```
 
 2. Install dependencies
