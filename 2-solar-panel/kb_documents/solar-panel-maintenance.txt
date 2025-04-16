@@ -1,33 +1,30 @@
-Maintenance Instructions for Sunpower Solar Panel Models:
+1. Sunpower X 모듈 정기 점검 및 유지보수:
+   a. 모듈 표면 청소: 정기적으로 모듈 표면의 먼지, 낙엽, 눈 등을 부드러운 천으로 깨끗이 닦아내기
+   b. 접속함 점검: 접속함 내부의 연결 상태와 단자의 부식 여부 확인
+   c. 배선 점검: 배선의 손상 및 접속 상태 확인
+   d. 프레임 점검: 프레임의 부식 및 손상 여부 확인
+   e. 출력 모니터링: 정기적으로 모듈의 출력 전압 및 전류 확인
+   f. 관련 규정 준수: 지역 전기 안전 규정 및 건축 규정 준수 여부 확인
 
-Sunpower X:
+2. Sunpower Y 모듈 정기 점검 및 유지보수:
+   a. 모듈 표면 청소: 정기적으로 모듈 표면의 먼지, 낙엽, 눈 등을 부드러운 천으로 깨끗이 닦아내기
+   b. 접속함 점검: 접속함 내부의 연결 상태와 단자의 부식 여부 확인
+   c. 배선 점검: 배선의 손상 및 접속 상태 확인
+   d. 프레임 점검: 프레임의 부식 및 손상 여부 확인
+   e. 출력 모니터링: 정기적으로 모듈의 출력 전압 및 전류 확인
+   f. 관련 규정 준수: 지역 전기 안전 규정 및 건축 규정 준수 여부 확인
 
-1. Inspect the solar panel frame and mounting system for any signs of damage or looseness. Tighten any loose connections and replace any damaged parts.
-2. Clean the solar panel surface using a soft, non-abrasive cloth and a mild, pH-neutral cleaning solution. Avoid using harsh chemicals or high-pressure water, as they can damage the panel.
-3. Check the electrical connections, including the wiring and the inverter, for any signs of wear or damage. Ensure that all connections are tight and secure.
-4. Inspect the circuit breaker and other electrical components to ensure they are functioning correctly and in compliance with local electrical codes.
-5. Monitor the solar panel's performance and energy output regularly. If you notice a significant drop in performance, contact a qualified solar technician for further inspection and troubleshooting.
-6. Ensure that the solar panel's orientation and tilt angle are maintained as per the original installation, as this can impact energy production.
-7. Stay up-to-date with any changes in local energy regulations or incentive programs, and make sure your solar system remains compliant.
+3. Sunpower double-X 모듈 정기 점검 및 유지보수:
+   a. 모듈 표면 청소: 정기적으로 모듈 표면의 먼지, 낙엽, 눈 등을 부드러운 천으로 깨끗이 닦아내기
+   b. 접속함 점검: 접속함 내부의 연결 상태와 단자의 부식 여부 확인
+   c. 배선 점검: 배선의 손상 및 접속 상태 확인
+   d. 프레임 점검: 프레임의 부식 및 손상 여부 확인
+   e. 출력 모니터링: 정기적으로 모듈의 출력 전압 및 전류 확인
+   f. 관련 규정 준수: 지역 전기 안전 규정 및 건축 규정 준수 여부 확인
 
-Sunpower Y:
-
-1. Inspect the solar panel frame, mounting system, and tracking mechanism for any signs of damage or wear. Tighten any loose connections and replace any damaged parts.
-2. Clean the solar panel surface using a soft, non-abrasive cloth and a mild, pH-neutral cleaning solution. Avoid using harsh chemicals or high-pressure water, as they can damage the panel.
-3. Check the electrical connections, including the wiring, the inverter, and the tracking system, for any signs of wear or damage. Ensure that all connections are tight and secure.
-4. Inspect the circuit breaker and other electrical components to ensure they are functioning correctly and in compliance with local electrical codes.
-5. Monitor the solar panel's performance and energy output regularly, paying close attention to the tracking system's functionality. If you notice any issues, contact a qualified solar technician for further inspection and troubleshooting.
-6. Ensure that the solar panel's orientation and tilt angle are maintained as per the original installation, as this can impact energy production.
-7. Stay up-to-date with any changes in local energy regulations or incentive programs, and make sure your solar system remains compliant.
-
-Sunpower Double-X:
-
-1. Inspect the solar panel frame, mounting system, and dual-axis tracking mechanism for any signs of damage or wear. Tighten any loose connections and replace any damaged parts.
-2. Clean the solar panel surface using a soft, non-abrasive cloth and a mild, pH-neutral cleaning solution. Avoid using harsh chemicals or high-pressure water, as they can damage the panel.
-3. Check the electrical connections, including the wiring, the inverter, and the tracking system, for any signs of wear or damage. Ensure that all connections are tight and secure.
-4. Inspect the circuit breaker and other electrical components to ensure they are functioning correctly and in compliance with local electrical codes.
-5. Monitor the solar panel's performance and energy output regularly, paying close attention to the dual-axis tracking system's functionality. If you notice any issues, contact a qualified solar technician for further inspection and troubleshooting.
-6. Ensure that the solar panel's orientation and tilt angle are maintained as per the original installation, as this can impact energy production.
-7. Stay up-to-date with any changes in local energy regulations or incentive programs, and make sure your solar system remains compliant.
-
-Remember, it is essential to follow all local building and electrical codes, as well as the manufacturer's instructions, when performing any maintenance or modifications to your solar system. If you are unsure about any aspect of the maintenance process, it is recommended to consult with a qualified solar technician.
+4. 에너지 규정 준수:
+   a. 지역 전기 안전 규정 확인 및 준수
+   b. 건축 규정 확인 및 준수
+   c. 전기 인허가 및 검사 절차 이행
+   d. 전력망 연계 규정 준수
+   e. 정부 보조금 및 세금 공제 요건 확인
