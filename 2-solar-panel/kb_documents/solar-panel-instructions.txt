@@ -1,31 +1,35 @@
 Sunpower X:
-This solar panel model is designed for residential use, with a power output of 350 watts and an efficiency of 22%. It features a sleek, low-profile design and is made with high-quality monocrystalline silicon cells. The Sunpower X is known for its durability and long-lasting performance, with a 25-year warranty.
+태양 전지 모듈 Sunpower X는 고효율 태양 전지 기술을 사용하여 최대 22.5%의 변환 효율을 달성합니다. 이 모듈은 내구성이 뛰어나며 까다로운 기후 조건에서도 안정적으로 작동합니다. 또한 낮은 온도 계수로 인해 고온에서도 높은 출력을 유지할 수 있습니다.
 
 Sunpower Y:
-The Sunpower Y is a more powerful model, with a power output of 400 watts and an efficiency of 23%. It is suitable for larger homes or those with higher energy demands. This model features advanced tracking technology, which allows it to follow the sun's movement and maximize energy production throughout the day.
+Sunpower Y 모듈은 고급 반사 방지 코팅과 개선된 셀 설계를 통해 최대 23.2%의 변환 효율을 달성합니다. 이 모듈은 낮은 LCOE(Levelized Cost of Electricity)로 인해 장기적인 투자 수익성이 뛰어납니다. 또한 내구성이 우수하여 25년 이상의 수명을 보장합니다.
 
-Sunpower Double-X:
-The Sunpower Double-X is the most advanced model in the lineup, with a power output of 450 watts and an efficiency of 24%. It is designed for homeowners who want to maximize their solar energy production. This model features a unique dual-axis tracking system, which allows it to follow the sun's movement both horizontally and vertically, further increasing energy output.
+Sunpower double-X:
+Sunpower double-X 모듈은 최첨단 태양 전지 기술을 사용하여 최대 24.1%의 업계 최고 수준의 변환 효율을 달성합니다. 이 모듈은 독특한 프레임 설계로 인해 낮은 풍하중 및 적설하중을 견딜 수 있습니다. 또한 고급 모니터링 시스템이 내장되어 있어 실시간 성능 데이터를 제공합니다.
 
-Installation Instructions:
+Sunpower X 설치 방법:
+1. 설치 장소 선정 및 준비
+2. 태양 전지 모듈 배치 및 고정
+3. 인버터 설치 및 연결
+4. 배터리 뱅크 설치 (선택 사항)
+5. 접지 및 전기 연결
+6. 시스템 테스트 및 인증
 
-Sunpower X:
-1. Assess the installation site and ensure it meets local building and electrical codes.
-2. Mount the solar panel frame securely to the roof or ground, ensuring proper orientation and tilt angle.
-3. Connect the solar panel to the inverter, following the manufacturer's instructions.
-4. Install the necessary electrical components, such as the circuit breaker and wiring, in compliance with local regulations.
-5. Connect the system to the home's electrical grid and complete the necessary paperwork for grid interconnection.
+Sunpower Y 설치 방법:
+1. 설치 장소 선정 및 준비
+2. 태양 전지 모듈 배치 및 고정
+3. 인버터 설치 및 연결
+4. 모니터링 시스템 설치 (선택 사항)
+5. 접지 및 전기 연결
+6. 시스템 테스트 및 인증
 
-Sunpower Y:
-1. Evaluate the installation site and ensure it is suitable for the tracking system.
-2. Assemble the tracking mechanism and mount the solar panel frame securely.
-3. Connect the solar panel to the inverter and the tracking system, following the manufacturer's instructions.
-4. Install the electrical components, including the circuit breaker and wiring, in compliance with local regulations.
-5. Connect the system to the home's electrical grid and complete the necessary paperwork for grid interconnection.
+Sunpower double-X 설치 방법:
+1. 설치 장소 선정 및 준비
+2. 태양 전지 모듈 배치 및 고정
+3. 인버터 설치 및 연결
+4. 배터리 뱅크 설치 (선택 사항)
+5. 모니터링 시스템 설치
+6. 접지 및 전기 연결
+7. 시스템 테스트 및 인증
 
-Sunpower Double-X:
-1. Carefully assess the installation site and ensure it can accommodate the dual-axis tracking system.
-2. Assemble the dual-axis tracking mechanism and mount the solar panel frame securely.
-3. Connect the solar panel to the inverter and the tracking system, following the manufacturer's instructions.
-4. Install the electrical components, including the circuit breaker and wiring, in compliance with local regulations.
-5. Connect the system to the home's electrical grid and complete the necessary paperwork for grid interconnection.
+모든 설치 과정에서 관련 에너지 규정을 준수해야 합니다.
